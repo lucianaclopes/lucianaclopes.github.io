@@ -1,0 +1,36 @@
+
+#nome {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+color: #023047;} 
+p{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    text-align:justify;
+}
+body {background-color:#8ecae6;
+color:#023047}
+
+#cidade {color:#344e41;
+font-weight: 600;}
+#estado {color: #344e41;
+font-weight: 600;}
+
+ul {font-size: 20px;}
+
+div.sobre p {position: relative;
+left: 280px; bottom: 90px;
+background-color: orange;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+width: 500px;
+text-align: center;
+margin: -20px;}
+
+h2{text-align: center;}
+
+div.figura img {background-color: #264653;
+padding-top: 20px; padding-left: 20px;
+padding-bottom: 20px; padding-right: 20px;}
+
+ ul li:nth-child(odd) {background-color: orange;
+font-weight: 500;
+width: 125px;}
